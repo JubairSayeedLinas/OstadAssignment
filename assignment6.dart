@@ -33,6 +33,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Photo Gallery'),
+        centerTitle: true,
       ),
       body: SingleChildScrollView(
         child: Column(
@@ -42,7 +43,10 @@ class HomeScreen extends StatelessWidget {
               padding: EdgeInsets.all(16.0),
               child: Text(
                 'Welcome to My Photo Gallery!',
-                style: TextStyle(fontSize: 24.0),
+                style: TextStyle(
+                    fontSize: 24.0,
+                  fontWeight: FontWeight.bold
+                ),
                 textAlign: TextAlign.center,
               ),
             ),
