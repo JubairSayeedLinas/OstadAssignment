@@ -1,2 +1,3 @@
 # Ostad Assignment 6
-![assignment6](https://github.com/JubairSayeedLinas/OstadAssignment/assets/9390005/cc83fba0-1087-4961-8068-f8c97c613911)
+
+![assignment6](https://github.com/JubairSayeedLinas/OstadAssignment/assets/9390005/aa45e48c-b778-4442-bdff-10dad0330132)
